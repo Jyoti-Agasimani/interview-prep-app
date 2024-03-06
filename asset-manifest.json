@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jyoti-Agasimani/interview-prep-app.git/static/css/main.2119bc47.css",
+    "main.js": "/Jyoti-Agasimani/interview-prep-app.git/static/js/main.ec55b8da.js",
+    "static/js/453.55849190.chunk.js": "/Jyoti-Agasimani/interview-prep-app.git/static/js/453.55849190.chunk.js",
+    "static/media/blu.jpg": "/Jyoti-Agasimani/interview-prep-app.git/static/media/blu.024e2de0fbea7cb29348.jpg",
+    "index.html": "/Jyoti-Agasimani/interview-prep-app.git/index.html",
+    "main.2119bc47.css.map": "/Jyoti-Agasimani/interview-prep-app.git/static/css/main.2119bc47.css.map",
+    "main.ec55b8da.js.map": "/Jyoti-Agasimani/interview-prep-app.git/static/js/main.ec55b8da.js.map",
+    "453.55849190.chunk.js.map": "/Jyoti-Agasimani/interview-prep-app.git/static/js/453.55849190.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2119bc47.css",
+    "static/js/main.ec55b8da.js"
+  ]
+}
